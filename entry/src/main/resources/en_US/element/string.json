@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "Passwd_tip",
+      "value": "Please input right password"
+    },
+    {
+      "name": "Register",
+      "value": "Register"
+    },
+    {
+      "name": "Login",
+      "value": "Login"
+    },
+    {
+      "name": "Login_action",
+      "value": "Login"
+    },
+    {
+      "name": "Password",
+      "value": "Password"
+    },
+    {
+      "name": "User",
+      "value": "PhoneNumber/Email"
+    },
+    {
+      "name": "Service",
+      "value": "Service"
+    },
+    {
+      "name": "ForgetPassword",
+      "value": "Forget Password"
+    },
+    {
+      "name": "PhoneNum",
+      "value": "PhoneNumber"
+    },
+    {
+      "name": "GetCode",
+      "value": "GetCode"
+    },
+    {
+      "name": "PrivacyAgreement",
+      "value": "Privacy Agreement"
+    },
+    {
+      "name": "AgreePrivacy",
+      "value": "Agree Privacy"
+    },
+    {
+      "name": "Disagree",
+      "value": "Disagree"
+    },
+    {
+      "name": "rightPhone",
+      "value": "Please input right phoneNumber"
+    },
+    {
+      "name": "Back",
+      "value": "back"
+    },
+    {
+      "name": "Me",
+      "value": "Me"
+    },
+    {
+      "name": "Running",
+      "value": "Running"
+    },
+    {
+      "name": "Dynamics",
+      "value": "Campus dynamics"
+    },
+    {
+      "name": "Educational",
+      "value": "Educational administration"
+    },
+    {
+      "name": "Record",
+      "value": "Record"
+    },
+    {
+      "name": "Rank",
+      "value": "Rank"
+    },
+    {
+      "name": "Goal",
+      "value": "Goal"
+    },
+    {
+      "name": "Start",
+      "value": "Start"
+    },
+    {
+      "name": "Time",
+      "value": "Time"
+    },
+    {
+      "name": "Speed",
+      "value": "Speed"
+    },
+    {
+      "name": "AvgSpeed",
+      "value": "Average Speed"
+    },
+    {
+      "name": "Mileage",
+      "value": "Mileage"
+    },
+    {
+      "name": "StepFrequency",
+      "value": "StepFrequency"
+    }
+  ]
+}

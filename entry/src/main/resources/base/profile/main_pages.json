@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Home",
+    "pages/Login",
+    "pages/Register",
+    "pages/Running",
+    "pages/Setting",
+    "pages/Privacy",
+    "pages/Security",
+    "pages/About",
+    "pages/Utils",
+    "pages/UpdateLog",
+    "pages/Feedback",
+    "pages/PersonalInfo"
+  ]
+}
